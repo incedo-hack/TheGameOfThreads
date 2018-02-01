@@ -1,0 +1,2 @@
+# TheGameOfThreads
+Utility that will DE-duplicate the records and remove duplicate entries based on rules including threshold values and other certainty factors. Our Solution  will be a web based solution exposing a rest endpoints backed by our match-making tool.  Rest end points which will help in the data import to the system along with setting the rules to be implied for removal of duplicate data.
